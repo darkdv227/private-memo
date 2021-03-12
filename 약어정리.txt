@@ -1,0 +1,10 @@
+ 약어 정리
+	AES Advanced Encryption Standard
+	API Application Programming Interface
+	CBC Cipher Block Chaining
+	GMT Greenwich Mean Time
+	HMAC Hash Message Authentication Code
+	SDK Software Development Kit
+	SHA Secure Hash Algorithm
+	SOAP Simple Object Access Protocol
+	WSDL Web Service Description Language
